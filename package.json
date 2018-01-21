@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "To detect landscape/portrait orientation and display message",
   "main": "orientation.css",
+  "style": "orientation.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
