@@ -1,0 +1,16 @@
+@media only screen and ( max-width: 750px) and ( max-aspect-ratio: 13/9 ) {
+  #warning-message {
+    display:none;
+  }
+}
+@media only screen and ( max-width:750px ) and ( min-aspect-ratio: 13/9 ) {
+  #app {
+    display:none;
+  }
+  #warning-message {
+    display:flex;
+  }
+}
+#warning-message {
+  display: none;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "orientation.css",
+  "version": "1.0.0",
+  "description": "To detect landscape/portrait orientation and display message",
+  "main": "orientation.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhanushukla/orientation.css.git"
+  },
+  "keywords": [
+    "orientation",
+    "check"
+  ],
+  "author": "Bhanu Shukla <shuklabhanu1@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bhanushukla/orientation.css/issues"
+  },
+  "homepage": "https://github.com/bhanushukla/orientation.css#readme"
+}
