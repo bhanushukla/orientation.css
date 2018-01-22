@@ -1,6 +1,6 @@
 {
   "name": "orientation.css",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "To detect landscape/portrait orientation and display message",
   "main": "orientation.css",
   "style": "orientation.css",
@@ -14,6 +14,9 @@
   "keywords": [
     "orientation",
     "check"
+  ],
+  "files": [
+    "reset.css"
   ],
   "author": "Bhanu Shukla <shuklabhanu1@gmail.com>",
   "license": "MIT",
