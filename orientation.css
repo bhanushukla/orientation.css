@@ -1,16 +1,16 @@
-@media only screen and ( max-width: 750px) and ( max-aspect-ratio: 13/9 ) {
-  #warning-message {
+:global #warning-message {
+  display: none;
+}
+@media only screen and ( max-width: 768px) and ( max-aspect-ratio: 13/9 ) {
+  :global #warning-message {
     display:none;
   }
 }
-@media only screen and ( max-width:750px ) and ( min-aspect-ratio: 13/9 ) {
-  #app {
+@media only screen and ( max-width:768px ) and ( min-aspect-ratio: 13/9 ) {
+  :global #app {
     display:none;
   }
-  #warning-message {
+  :global #warning-message {
     display:flex;
   }
-}
-#warning-message {
-  display: none;
 }
