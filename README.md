@@ -7,14 +7,16 @@ Feature: To show orientation prompts asking user to rotate device to portrait mo
 
 ## Installation
 
-  npm install orientation.css --save
+With [NPM](http://npmjs.com):
+
+ $ npm install orientation.css --save
 
 ## Usage
 
   Add an element to your html with id as "warning-message"
 
-  <div id= "warning-message" class="warning">
-      Please rotate your device to portrait mode.
+	<div id= "warning-message" class="warning">
+      		Please rotate your device to portrait mode.
 	</div>
 
 ## Release History
