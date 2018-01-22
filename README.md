@@ -9,7 +9,7 @@ Feature: To show orientation prompts asking user to rotate device to portrait mo
 
 With [NPM](http://npmjs.com):
 
- $ npm install orientation.css --save
+	$ npm install orientation.css --save
 
 ## Usage
 
